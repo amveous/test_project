@@ -6,8 +6,6 @@ City: Karachi
 Country: Pakistan
 Contact #: 0333-1234567
 
-
-
 Name: Murtaza
 Email: murtaza@gmail.com
 Age: 32
